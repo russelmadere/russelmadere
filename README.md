@@ -2,7 +2,7 @@
 - 👀 I’m interested in C#, JavaScript, jQuery, SQL, Geology and spoken languages.
 - 🌱 I’m currently learning Spanish, C# some more, TSQL, and how to be a Business Analyst.
 - 💞️ I’m looking to collaborate on Geology and GeoCaching applications.
-- 📫 How to reach me step outside and yell for der alter Furz. Actuall, drop me an email at rmadere@etigers.net. Make sure you put GitHub in the subject line.
+- 📫 How to reach me step outside and yell for "der alter Furz." Actually, drop me an email at rmadere@etigers.net. Make sure you put GitHub in the subject line.
 
 <!---
 russelmadere/russelmadere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
